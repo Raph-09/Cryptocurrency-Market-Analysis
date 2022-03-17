@@ -1,5 +1,9 @@
 # Cryptocurrency-Market-Analysis
 
+
+![image](https://user-images.githubusercontent.com/72034856/158796822-96d1dea5-0f7f-4416-8af1-bf2495caa47d.png)
+
+
 ### Source of data 
 The source of data is kaggle.com
 
