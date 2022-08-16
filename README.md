@@ -1,3 +1,4 @@
+Link to excel file(google drive): https://drive.google.com/file/d/1NEO8TP9xjxZg4k6U-4NOBhfM4Xp3aMKe/view?usp=sharing
 # Cryptocurrency-Market-Analysis
 A cryptocurrency is a virtual currency,which is an alternative method of payment created using encryption method known as cryptography. Cryptocurrencies function as both currency and accounting system, since it makes use of cryptography which help to keep record of every transaction digitally. The crytocurrency's market is very volatile and at the same time very profitable. In this project I will try and analyze the cryptomarket using excel.
 I will focus mainly on Ethereum and Bitcoin.
