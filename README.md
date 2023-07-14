@@ -25,7 +25,7 @@ Moving averages is a technique used to obtain a smoother curve. It is gotten by 
 2) Ethereum price trend
 ### Price Moving  Analysis
 1) Bitcoin moving average
-2) Ethereum moving average
+2) Ethereum moving averagee
  
 ### 4)Latest cryptocurrencies
 
